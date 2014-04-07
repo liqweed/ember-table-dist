@@ -1,0 +1,9 @@
+{
+  "name": "ember-table",
+  "version": "0.1",
+  "author": "",
+  "main": ["ember-table.js", "ember-table.css"],
+  "ignore": [
+    "README.md"
+  ]
+}
