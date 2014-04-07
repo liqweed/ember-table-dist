@@ -1,5 +1,5 @@
 {
-  "name": "ember-table",
+  "name": "ember-table-dist",
   "version": "0.1",
   "author": "",
   "main": ["ember-table.js", "ember-table.css"],
